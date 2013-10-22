@@ -1,3 +1,3 @@
 module.exports = {
-    QueryCache : require('src/QueryCache'),
+    QueryCache : require('./src/QueryCache'),
 };
