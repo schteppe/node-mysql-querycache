@@ -1,0 +1,23 @@
+{
+  "name": "node-mysql-querycache",
+  "version": "0.0.0",
+  "description": "Simple, in-app query result caching to relax your MySQL database.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodeunit test/"
+  },
+  "repository": "",
+  "keywords": [
+    "mysql"
+  ],
+  "author": "Stefan Hedman",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies" : {
+    "node-mysql" : "*",
+    "underscore" : "*"
+  }
+}
